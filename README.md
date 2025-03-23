@@ -15,19 +15,19 @@ Siguiendo estos pasos, podremos establecer un servidor DHCP funcional con Kea y 
 ***
 ## Guía completa: 
 
--[Instalación y Configuración Inicial](1.md)
+- [Instalación y Configuración Inicial](1.md)
 
--[Configuración del Servidor DHCP](2.md)
+- [Configuración del Servidor DHCP](2.md)
 
--[Reservación de Direcciones IP en Kea](3.md)
+- [Reservación de Direcciones IP en Kea](3.md)
 
--[Configuración del Cliente DHCP](4.md)
+- [Configuración del Cliente DHCP](4.md)
 
--[Seguridad y Reenvío de Paquetes](5.md)
+- [Seguridad y Reenvío de Paquetes](5.md)
 
--[Configuración de NAT y Firewall](6.md)
+- [Configuración de NAT y Firewall](6.md)
 
--[Verificación y Diagnóstico](7.md)
+- [Verificación y Diagnóstico](7.md)
 ***
 
 ## REFERENCIAS
