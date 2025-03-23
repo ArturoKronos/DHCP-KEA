@@ -29,3 +29,19 @@ Siguiendo estos pasos, podremos establecer un servidor DHCP funcional con Kea y 
 
 [Verificación y Diagnóstico](7.md)
 ***
+
+## REFERENCIAS
+
+- [CHATGPT](https://www.chatgpt.com)
+- [CLASES DE RAFA ](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/)
+- [KEADHCP](https://elpuig.xeill.net/Members/vcarceler/articulos/dhcp-con-kea)
+
+## AUTOR
+
+[Arturo Kronos Fernández Curiel ](https://github.com/ArturoKronos)
+
+<p align="center">
+  <img src="img/maz.jpg" alt="maz">
+</p>
+
+
