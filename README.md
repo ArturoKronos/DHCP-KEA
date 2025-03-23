@@ -13,7 +13,6 @@ También realizaremos pruebas desde un cliente para verificar la asignación de 
 
 Siguiendo estos pasos, podremos establecer un servidor DHCP funcional con Kea y gestionar las direcciones IP de forma eficiente dentro de la red.
 ***
-***
 ## Guía completa: 
 
 [Instalación y Configuración Inicial](1.md)
