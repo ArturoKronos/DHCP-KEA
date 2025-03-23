@@ -1,4 +1,4 @@
 # DHCP-KEA
 
-![portada](kea-logo-200.png)
+![portada](img/kea-logo-200.png)
 
